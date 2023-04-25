@@ -1,0 +1,6 @@
+.profileList{
+    max-height: 800px;
+    overflow: scroll;
+    width: 1300px;
+    margin: 0 auto;
+}

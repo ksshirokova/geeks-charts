@@ -1,0 +1,47 @@
+.container {
+    width: 1049px;
+    height: 412px;
+    background-color: rgba(0, 0, 0, 0.74);
+    display: flex;
+    z-index: 0;
+
+    color: white;
+    margin: 0 auto;
+    border-radius: 39px;
+    border: 6px solid transparent;
+    background: linear-gradient(#0C162B, #131316) padding-box,
+        linear-gradient(to bottom, #7C8DE5, #631887) border-box;
+
+    /* background: linear-gradient(#131316, #131316) padding-box,
+    linear-gradient(to right, #801AB2, #4C4CFF) border-box; */
+    margin-bottom: 75px;
+}
+
+.description {
+    width: 618px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.name {
+    font-size: 50px;
+    line-height: 50px;
+
+}
+.header{
+    display: flex;
+}
+.text{
+    margin-left: 44px;
+}
+.poster {
+    display: flex;
+    max-width: 257px;
+    max-height: 357px;
+    border-radius: 40px;
+    border: 6px solid #FFFFFF;
+    margin: 22px 0 0 23px;
+
+
+
+}

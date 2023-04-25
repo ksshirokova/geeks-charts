@@ -1,0 +1,10 @@
+.main{
+  font-family: 'Muller'
+  
+}
+.profileContainer{
+  background: linear-gradient(#6266CE, pink);
+  min-width: 2060px;
+  min-height: 1000px;
+  padding-top: 59px;
+}

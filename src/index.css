@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Muller';
+  src: local('Muller'),
+    url('./fonts/ofont.ru_Muller.ttf') format('truetype');
+  font-weight: bold;
+}

@@ -1,0 +1,45 @@
+.section{
+    background-color: #21264E;
+    min-width: 1920px;
+    max-height: 136px;
+    color: white;
+    padding: 0 70px;
+    border-bottom: 5px solid white;
+   
+
+}
+
+.img{
+    
+    background-image: url(../../../images/clapperboard.png);
+    width: 56px;
+    height: 56px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    margin-top: 43px;
+}
+.content{
+    display: flex;
+    max-height: 1920px;
+}
+.logo{
+    display: flex;
+}
+.text{
+    font-size: 50px;
+    margin-right:10px;
+   
+}
+
+.navPanel{
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+   
+}
+.list{
+    margin-right: 70px;
+    font-size: 30px;
+    
+}
