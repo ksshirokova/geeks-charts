@@ -1,0 +1,30 @@
+.background {
+    background: white;
+    width: 156px;
+    height: 100%;
+
+}
+
+.logo {
+    margin: 45px 0 40px 27px;
+
+}
+
+.ul {
+    padding: 0;
+    margin-left: 35px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.link {
+    margin-bottom: 60px;
+    list-style-type: none;
+}
+
+.link:nth-child(5) {
+    margin-top: 650px;
+
+}
